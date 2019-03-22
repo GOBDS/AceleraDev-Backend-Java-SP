@@ -1,0 +1,621 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="02302888-651e-40d9-8050-b9004270dd66" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/4.9/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.9/fileContent/fileContent.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.9/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.9/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.9/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.9/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.9/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.9/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.9/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.9/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.9/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.9/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/challenge.Codenation_java_mongodb.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/challenge.Codenation_java_mongodb.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/challenge.Codenation_java_mongodb.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/challenge/RecipeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/challenge/RecipeController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/challenge/RecipeServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/challenge/RecipeServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/challenge/RecipeValidationTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/challenge.RecipeValidationTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/base-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/js/report.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/challenge.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-challenge.RecipeValidationTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/test.properties" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/test.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/challenge/RecipeValidationTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/challenge/RecipeValidationTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/challenge/Recipe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/challenge/Recipe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/challenge/RecipeComment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/challenge/RecipeComment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/challenge/RecipeServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/challenge/RecipeServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/test.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/test.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/challenge/RecipeValidationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/challenge/RecipeValidationTest.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/challenge/RecipeValidationTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1462">
+              <caret line="102" column="5" lean-forward="true" selection-start-line="102" selection-start-column="5" selection-end-line="102" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>r1</find>
+      <find>get_id</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/challenge/RecipeRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/challenge/RecipeController.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/test.properties" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/challenge/RecipeComment.java" />
+        <option value="$PROJECT_DIR$/src/main/java/challenge/Recipe.java" />
+        <option value="$PROJECT_DIR$/src/main/java/challenge/RecipeServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/test/java/challenge/RecipeValidationTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1928" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1066" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="java-mongodb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-mongodb" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-mongodb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-mongodb" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-mongodb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-mongodb" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-mongodb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-mongodb" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-mongodb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-mongodb" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="challenge" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-mongodb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-mongodb" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-mongodb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-mongodb" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-mongodb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-mongodb" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-mongodb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-mongodb" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="challenge" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552052901975" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Application">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="challenge.Application" />
+      <module name="challenge.java-mongodb.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="challenge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in challenge.java-mongodb" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="challenge.java-mongodb" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RecipeValidationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="challenge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="PACKAGE_NAME" value="challenge" />
+      <option name="MAIN_CLASS_NAME" value="challenge.RecipeValidationTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <fork_mode value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RecipeValidationTest.save" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="challenge.Codenation_java_mongodb.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="challenge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="challenge" />
+      <option name="MAIN_CLASS_NAME" value="challenge.RecipeValidationTest" />
+      <option name="METHOD_NAME" value="save" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="challenge.Codenation_java_mongodb" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="challenge.Codenation_java_mongodb" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Application" />
+        <item itemvalue="JUnit.RecipeValidationTest" />
+        <item itemvalue="JUnit.All in challenge.java-mongodb" />
+        <item itemvalue="JUnit.RecipeValidationTest.save" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="02302888-651e-40d9-8050-b9004270dd66" name="Default Changelist" comment="" />
+      <created>1551960154461</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551960154461</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="RecipeValidationTest - 2019.03.07 at 15h 51m 06s.xml">
+      <configuration name="RecipeValidationTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RecipeValidationTest - 2019.03.07 at 21h 17m 46s.xml">
+      <configuration name="RecipeValidationTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RecipeValidationTest - 2019.03.07 at 21h 19m 29s.xml">
+      <configuration name="RecipeValidationTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RecipeValidationTest - 2019.03.07 at 21h 28m 55s.xml">
+      <configuration name="RecipeValidationTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RecipeValidationTest_save - 2019.03.07 at 21h 32m 24s.xml">
+      <configuration name="RecipeValidationTest.save" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RecipeValidationTest - 2019.03.08 at 09h 42m 01s.xml">
+      <configuration name="RecipeValidationTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RecipeValidationTest - 2019.03.08 at 09h 45m 50s.xml">
+      <configuration name="RecipeValidationTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RecipeValidationTest - 2019.03.08 at 09h 51m 30s.xml">
+      <configuration name="RecipeValidationTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RecipeValidationTest - 2019.03.08 at 10h 00m 53s.xml">
+      <configuration name="RecipeValidationTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RecipeValidationTest - 2019.03.08 at 10h 04m 22s.xml">
+      <configuration name="RecipeValidationTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1928" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="DB Browser" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Project Explorer" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info id="Capture Tool" order="8" />
+      <window_info id="Job Explorer" order="9" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3290461" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.4330118" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="DB Execution Console" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3290461" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50053304" side_tool="true" weight="0.63879955" />
+      <window_info anchor="bottom" id="Build" order="10" weight="0.32888147" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="bottom" id="Console" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Gradle" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09621212" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="DB Browser" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Project Explorer" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info id="Capture Tool" order="8" />
+      <window_info id="Job Explorer" order="9" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3290461" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23706177" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="DB Execution Console" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3290461" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="10" weight="0.32888147" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="bottom" id="Console" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Gradle" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/challenge/RecipeRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="75" selection-start-line="6" selection-start-column="75" selection-end-line="6" selection-end-column="75" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-commons/2.0.10.RELEASE/b7c6de4b7a506d67f608113b6ecf21091b927002/spring-data-commons-2.0.10.RELEASE-sources.jar!/org/springframework/data/repository/CrudRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="35" column="20" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/List.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-mongodb/2.0.10.RELEASE/442e8d13605ad3b52dbcfca2af6a2511b7417e79/spring-data-mongodb-2.0.10.RELEASE-sources.jar!/org/springframework/data/mongodb/repository/MongoRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="66" column="20" selection-start-line="66" selection-start-column="20" selection-end-line="66" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/challenge/RecipeService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/challenge/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" selection-start-line="5" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/test.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="48" selection-start-column="34" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="48" selection-start-column="34" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/challenge/RecipeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/challenge/RecipeComment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="40" column="13" lean-forward="true" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#896#897#0" expanded="true" />
+            <element signature="e#940#941#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/challenge/Recipe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#495#496#0" expanded="true" />
+            <element signature="e#521#522#0" expanded="true" />
+            <element signature="e#559#560#0" expanded="true" />
+            <element signature="e#589#590#0" expanded="true" />
+            <element signature="e#621#622#0" expanded="true" />
+            <element signature="e#649#650#0" expanded="true" />
+            <element signature="e#691#692#0" expanded="true" />
+            <element signature="e#725#726#0" expanded="true" />
+            <element signature="e#763#764#0" expanded="true" />
+            <element signature="e#797#798#0" expanded="true" />
+            <element signature="e#851#852#0" expanded="true" />
+            <element signature="e#897#898#0" expanded="true" />
+            <element signature="e#935#936#0" expanded="true" />
+            <element signature="e#963#964#0" expanded="true" />
+            <element signature="e#1011#1012#0" expanded="true" />
+            <element signature="e#1045#1046#0" expanded="true" />
+            <element signature="e#1089#1090#0" expanded="true" />
+            <element signature="e#1123#1124#0" expanded="true" />
+            <element signature="e#1183#1184#0" expanded="true" />
+            <element signature="e#1229#1230#0" expanded="true" />
+            <element signature="e#1277#1278#0" expanded="true" />
+            <element signature="e#1308#1309#0" expanded="true" />
+            <element signature="e#1369#1370#0" expanded="true" />
+            <element signature="e#1409#1410#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/classes/java/test/challenge/RecipeValidationTest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#7296#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/classes/java/test/challenge/RecipeIntegrationTest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="153" column="24" selection-start-line="153" selection-start-column="16" selection-end-line="153" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#8888#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/classes/java/test/challenge/RecipeCommentTest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#528#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/classes/java/test/challenge/RecipeTest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#1541#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/challenge/RecipeServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1717">
+          <caret line="112" column="13" lean-forward="true" selection-start-line="112" selection-start-column="13" selection-end-line="112" selection-end-column="13" />
+          <folding>
+            <element signature="e#1374#1375#0" expanded="true" />
+            <element signature="e#1406#1407#0" expanded="true" />
+            <element signature="e#1450#1451#0" expanded="true" />
+            <element signature="e#1526#1527#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/challenge/RecipeValidationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1462">
+          <caret line="102" column="5" lean-forward="true" selection-start-line="102" selection-start-column="5" selection-end-line="102" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
